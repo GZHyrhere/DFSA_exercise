@@ -1,6 +1,8 @@
 # DFSA_exercise
 an exercise for implemention of deterministic finite state automaton in python
 
+
+
 This is a python module for deterministic finite state automaton.
 It is coded in python 2.7.2.with UTF-8 under windows 7.
 
